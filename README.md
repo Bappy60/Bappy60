@@ -19,14 +19,56 @@ src="https://img.shields.io/github/followers/Bappy60?logo=github&style=for-the-b
 
 ### Tech Stack
 
-```json
-{
-  "language": ["GOlang", "C++", "Javascript"],
-  "frontend": ["ReactJS"],
-  "backend":  ["GO", "ECHO", "RestAPI"],
-  "database": ["MySQL"],
-}
-```
+### Programming Languages
+
+<div align="left"> 
+<a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /></a>
+<a href="https://www.cplusplus.com/" target="_blank"><img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /></a>
+
+</div>
+
+### Frontend
+
+<div align="left">  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /></a>
+</div>
+
+### Backend
+
+<div align="left">  
+<a href="https://echo.labstack.com" target="_blank"><img height="25" src="https://cdn.labstack.com/images/echo-logo.svg"></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" /></a> 
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></a>  
+</div>
+
+### Database
+
+<div align="left">  
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /></a>  
+<a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" /></a>  
+</div>
+
+### Designing Tool
+
+<div align="left">  
+<a href="https://www.canva.com/" target="_blank"><img src="https://img.shields.io/badge/canva-%2300C4CC.svg?&style=for-the-badge&logo=canva&logoColor=white" /></a>
+</div>
+
+### Other
+
+<div align="left">
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" /></a>  
+<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://bitbucket.org/" target="_blank"><img src="https://img.shields.io/badge/bitbucket-%230052CC.svg?&style=for-the-badge&logo=bitbucket&logoColor=white" /></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
+<a href="https://www.latex-project.org/" target="_blank"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white" /></a>  
+</div>
+
+<br/>
 
 
 ### Socials
