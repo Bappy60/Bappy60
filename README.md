@@ -9,7 +9,7 @@ Final Year undergrad student of Shahjalal University of Science and Technology, 
 * 🌍  I'm based in Savar,Dhaka
 * ✉️  You can contact me at [kawsar.swe.sust@gmail.com](mailto:kawsar.swe.sust@gmail.com)
 * 🚀  I'm currently working on my backend development skill 
-* 🧠  **Currently learning:** **Echo** framework, React,docker.
+* 🧠  **Currently learning:** **Echo** framework, React, *docker*.
 * 🤝  I'm open to collaborating on Problem solving & Backend Projects.
 * 📚 **Currently reading:** Rich dad Poor dad
 
