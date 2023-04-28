@@ -91,6 +91,6 @@ src="https://img.shields.io/github/followers/Bappy60?logo=github&style=for-the-b
 
 <b>My GitHub Stats</b>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Bappy60&theme=algolia&show_icons=true)](https://github.com/raisul191491)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Bappy60&theme=algolia&show_icons=true)](https://github.com/Bappy60)
 
 [![Bappy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Bappy60&hide=c%23,stylus,blade,jupyter%20notebook,python,html,shaderlab,hlsl,makefile,css,shell,batchfile&theme=algolia&show_icons=true&layout=compact&langs_count=8)](https://github.com/Bappy60)
