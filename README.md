@@ -6,11 +6,12 @@ Just another engineer who wants to start a business
 
 Final Year undergrad student of Shahjalal University of Science and Technology, studying Software Engineering. Currently working as an intern at **Vivasoft Limited**.
 
-* 🌍  I'm based in Savar,Dhaka
+* 🌍  I'm based in Dhaka,Bangladesh
 * ✉️  You can contact me at [kawsar.swe.sust@gmail.com](mailto:kawsar.swe.sust@gmail.com)
 * 🚀  I'm currently working on my backend development skill 
 * 🧠  **Currently learning:** **Echo** framework, React, *docker*.
 * 🤝  I'm open to collaborating on Problem solving & Backend Projects.
+* ❓ Ask me about anything related to Startup, Geopolitics and venture capital.
 * 📚 **Currently reading:** Rich dad Poor dad
 
 <a href="https://www.github.com/Bappy60" target="_blank" rel="noreferrer"><img
