@@ -12,7 +12,7 @@ Final Year undergrad student of Shahjalal University of Science and Technology, 
 * 🧠  **Currently learning:** **Echo** framework, React, *docker*.
 * 🤝  I'm open to collaborating on Problem solving & Backend Projects.
 * ❓ Ask me about anything related to Startup, Geopolitics and venture capital.
-* 📚 **Currently reading:** Rich dad Poor dad
+* 📚 **Currently reading:** ত্রিভুজের তিন কোনের সমষ্টি - জুবায়ের আলম
 
 <a href="https://www.github.com/Bappy60" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Bappy60?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
