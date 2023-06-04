@@ -14,7 +14,7 @@ Final Year undergrad student of Shahjalal University of Science and Technology, 
 * 🌍  I'm based in Dhaka,Bangladesh
 * ✉️  You can contact me at [kawsar.swe.sust@gmail.com](mailto:kawsar.swe.sust@gmail.com)
 * 🚀  I'm currently working on my backend development skill 
-* 🧠  **Currently learning:** **Echo** framework, React, *docker*.
+* 🧠  **Currently learning:** Gin framework, RabbitMQ, *docker*.
 * 🤝  I'm open to collaborating on Problem solving & Backend Projects.
 * ❓ Ask me about anything related to Startup, Geopolitics and venture capital.
 * 📚 **Currently reading:** ত্রিভুজের তিন কোনের সমষ্টি - জুবায়ের আলম
