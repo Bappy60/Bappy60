@@ -1,23 +1,23 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Bappy
 ========================================================================================================================================
 
-Just another engineer who wants to start a business
+Just another engineer who wants to start a business of his own
 -----------------------------------------------------
 
-Final Year undergrad student of Shahjalal University of Science and Technology, studying Software Engineering. Currently working as an intern at **Vivasoft Limited**.
+Final Year undergrad student of Shahjalal University of Science and Technology, studying Software Engineering.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bappy60&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-* 🌍  I'm based in Dhaka,Bangladesh
+* 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  You can contact me at [kawsar.swe.sust@gmail.com](mailto:kawsar.swe.sust@gmail.com)
 * 🚀  I'm currently working on my backend development skill 
 * 🧠  **Currently learning:** Gin framework, RabbitMQ, *docker*.
 * 🤝  I'm open to collaborating on Problem solving & Backend Projects.
-* ❓ Ask me about anything related to Startup, Geopolitics and venture capital.
-* 📚 **Currently reading:** ত্রিভুজের তিন কোনের সমষ্টি - জুবায়ের আলম
+* ❓ Ask me about startups and geopolitics.
+* 📚 **Currently reading:** 
 
 <a href="https://www.github.com/Bappy60" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Bappy60?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
