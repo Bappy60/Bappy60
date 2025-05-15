@@ -5,7 +5,9 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bappy60&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>  
 
 I'm a Software Engineer with 1.5+ years of experience in building scalable backend systems, contributing to open source, and diving deep into system internals. I enjoy designing clean architectures, optimizing databases, and building robust APIs that power real-world applications.
 
@@ -17,6 +19,8 @@ I'm a Software Engineer with 1.5+ years of experience in building scalable backe
 
 <a href="https://www.github.com/Bappy60" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Bappy60?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+
 
 ### 🛠 Tech Stack
 
